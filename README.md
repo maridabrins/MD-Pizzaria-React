@@ -30,7 +30,7 @@
         - 📁 assets # Onde está armazenada as imagens
         - 📁 components # Onde estão todos os componentes do site
         - 📁 pages # Onde são criadas todas as páginas do site
-        - 📄 App.jsx # Onde as páginas são renderizadas
+        - 📄 App.jsx # Onde estão as rotas do site
         - 📄 main.jsx # Onde o App é renderizado
 
 ---
