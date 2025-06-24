@@ -12,7 +12,7 @@
 -->
 
 <p align="center">
- <a href="#-Descrição-do-entregável">Descrição do Entregável</a> •
+ <a href="#-descrição-do-entregável">Descrição do Entregável</a> •
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
@@ -25,13 +25,13 @@
 
 ## 📄 Descrição do entregável
 
-- 🌐 MD-Pizzaria-React #
-    - 🗂 src
-        - 📁 assets
-        - 📁 components
-        - 📁 pages
-        - 📄 App.jsx
-        - 📄 main.jsx
+- 🌐 MD-Pizzaria-React # Pasta principal que armazena o projeto
+    - 🗂 src # Pasta que agrupa as demais
+        - 📁 assets # Onde está armazenada as imagens
+        - 📁 components # Onde estão todos os componentes do site
+        - 📁 pages # Onde são criadas todas as páginas do site
+        - 📄 App.jsx # Onde estão as rotas do site
+        - 📄 main.jsx # Onde o App é renderizado
 
 ---
 
@@ -47,7 +47,6 @@ MD-Pizzaria-React é um projeto criado para praticar o uso do React Router dom.
 
 
 ## ⚙️ Funcionalidades
-
 
 | Rota |  Descrição   |                       
 |-----------------------------------------|-----------------------------------|
@@ -74,7 +73,8 @@ MD-Pizzaria-React é um projeto criado para praticar o uso do React Router dom.
 
 1 - Baixar o Projeto <br>
 `git clone https://github.com/maridabrins/MD-Pizzaria-React.git`<br>
-2 - Instalar a pasta node_modules (npm install)<br>
+2 - Instalar a pasta node_modules <br>
+`npm install`
 3 - Rodar o projeto <br>
 `npm run dev`
 
