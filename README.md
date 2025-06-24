@@ -25,13 +25,13 @@
 
 ## 📄 Descrição do entregável
 
-- 🌐 MD-Pizzaria-React #
-    - 🗂 src
-        - 📁 assets
-        - 📁 components
-        - 📁 pages
-        - 📄 App.jsx
-        - 📄 main.jsx
+- 🌐 MD-Pizzaria-React # Pasta principal que armazena o projeto
+    - 🗂 src # Pasta que agrupa as demais
+        - 📁 assets # Onde está armazenada as imagens
+        - 📁 components # Onde estão todos os componentes do site
+        - 📁 pages # Onde são criadas todas as páginas do site
+        - 📄 App.jsx # Onde as páginas são renderizadas
+        - 📄 main.jsx # Onde o App é renderizado
 
 ---
 
