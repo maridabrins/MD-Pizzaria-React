@@ -53,6 +53,7 @@ MD-Pizzaria-React é um projeto criado para praticar o uso do React Router dom.
 | `/`          | Exibe tela de inicio    |
 | `/menu`          | Exibe tela de cardapio   |
 | `/contact`          | Exibe tela de contato    |
+| `/*`          | Exibe tela de not found   |
 
 ---
 
